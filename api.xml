@@ -50,8 +50,4 @@ button{margin:20px
     });
 });
 </script>
-<link href="//eswhik.github.io/buttons-z/css/style-buttons.css" rel="stylesheet"/>
-<link href="//eswhik.github.io/buttons-z/css/style-icons.css" rel="stylesheet"/>
-<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-<script src="https://www.google.com/recaptcha/api.js"></script>
 `)
