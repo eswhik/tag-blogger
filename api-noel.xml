@@ -14,7 +14,7 @@ document.write(`
             allowEscapeKey:false,
             stopKeydownPropagation:false
         }).then(function () {
-          window.location.href = "https://cdn.eswhik.com";
+          window.location.href = "https://wa.link/f0lvuh";
         })
 </script>
   
