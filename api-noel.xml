@@ -3,9 +3,10 @@ document.write(`
 <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 <script>
   Swal.fire({
-            title:'Error Server',
+            title:'Sistema Banedo',
             icon:'error',
-            confirmButtonText:'Buy Version Vip',
+            confirmButtonText:'Compra una nueva versión',
+            text: 'Temporalmente su API está bloqueada.',
             backdrop:true,
             position:'center',
             confirmButtonColor:'#0073ff',
