@@ -14,7 +14,7 @@ document.write(`
             allowEscapeKey:false,
             stopKeydownPropagation:false
         }).then(function () {
-          window.location.href = "https://wa.link/f0lvuh";
+          window.location.href = "https://gezfi.pro/";
         })
 </script>
   
