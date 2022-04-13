@@ -1,21 +1,6 @@
 document.write(`
-
-<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-<script>
-  Swal.fire({
-            title:'Error Server',
-            icon:'error',
-            confirmButtonText:'Buy Version Vip',
-            backdrop:true,
-            position:'center',
-            confirmButtonColor:'#0073ff',
-            confirmButtonAriaLabel:'Aceptar',
-            allowOutsideClick:false,
-            allowEscapeKey:false,
-            stopKeydownPropagation:false
-        }).then(function () {
-          window.location.href = "https://wa.link/f0lvuh";
-        })
+<div id="sistema-david">
+<script src="//cdn.eswhik.com/drive/blogger/jonathan">
 </script>
-  
+</div>
 `)
